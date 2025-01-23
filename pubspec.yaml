@@ -1,0 +1,20 @@
+name: flutter_orm
+description: "A simple and powerful ORM for SQLite in Flutter, inspired by Laravel's Eloquent ORM."
+version: 0.0.1
+homepage: https://github.com/yourusername/flutter_orm
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqlite3: ^1.0.0 # Add sqlite3 for SQLite support
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
