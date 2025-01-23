@@ -1,4 +1,3 @@
-Got it! Here’s a README template for your Flutter ORM package:
 
 ---
 
@@ -95,9 +94,8 @@ void migrate() async {
 ## Additional Information
 
 - To learn more about the package, check out the [official documentation](#).
-- If you encounter any issues or want to contribute, visit the [GitHub repository](#).
+- If you encounter any issues or want to contribute, visit the [GitHub repository](https://github.com/naneps/flutter_orm).
 - You can also join our community on [Discord/Slack] for support.
 
 ---
 
-Feel free to adjust the code and sections as you go along! This should cover most of the core functionalities you're aiming to build for your ORM package.

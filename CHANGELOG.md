@@ -1,4 +1,4 @@
-Here's a simple `CHANGELOG.md` entry for your initial release:
+
 
 ---
 
@@ -14,4 +14,3 @@ Here's a simple `CHANGELOG.md` entry for your initial release:
 
 ---
 
-You can update it later with more details as you continue developing the package!
